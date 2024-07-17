@@ -13,7 +13,7 @@ function App() {
       className="App"
       style={{
         height:
-          window.location.href === "https://connect-two.vercel.app/chat"
+          window.location.href === "https://localhost:3000/chat"
             ? "calc(100vh - 2rem)"
             : "auto",
       }}
